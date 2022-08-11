@@ -1,7 +1,7 @@
 # Lem-in
 My Lem-in project for School21 by Sberbank
 
-The task of the project is to write a program which finds the optimal path in a graph. Project features - the graph can consist of any number of nodes, the graph is undirected, the number of so called "ants" is specified. They must get from the starting node to the end node in as few moves as possible. Each turn, each ant may move from its node to any other node connected to that node. Each node (except for the start and finish node) may contain only one ant. For more details see the file in the folder [sbj/09_lem-in.en.pdf] (https://github.com/TesenDesk/Lemin/blob/master/sbj/09_lem-in.en.pdf).
+The task of the project is to write a program which finds the optimal path in a graph. Project features - the graph can consist of any number of nodes, the graph is undirected, the number of so called "ants" is specified. They must get from the starting node to the end node in as few moves as possible. Each turn, each ant may move from its node to any other node connected to that node. Each node (except for the start and finish node) may contain only one ant. For more details see the file in the folder [sbj/09_lem-in.en.pdf](https://github.com/TesenDesk/Lemin/blob/master/sbj/09_lem-in.en.pdf).
 
 Implemented its own algorithm, based on the [Disjoint Path Finding] algorithm (http://www.macfreek.nl/memory/Disjoint_Path_Finding).
 
