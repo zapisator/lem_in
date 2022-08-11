@@ -46,7 +46,7 @@ Additional operation flags have been added. The `lem-in` supports flags:
 `-k` - Colors ants depending on the path they use. Use with flag `-p` will color the paths too.    
 `-d` - Debug mode. Prints out a lot of additional information.    
 
-I did this project with a student of @ftothmur School. He did the file validation and data saving. My part of the job was to write the algorithm.
+I did this project with a student of @jjerde School. I did the file validation and data saving, algorithm checking. His part of the job was to write the algorithm.
 
 Final score: 125%
 
